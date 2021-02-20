@@ -1,6 +1,6 @@
 # Curriculum Vitae
 1. In progress
-2. For my CV look at "Ekaterina Kotliarova.pdf" file :)
+2. My [CV](Ekaterina%20Kotliarova.pdf)
 3. My [LinkedIn](https://www.linkedin.com/in/tamamolis/)
 4. My biography -->
 
