@@ -1,6 +1,6 @@
 # Resume
 1. To be developed
-2. Look at EkaterinaKotliarova.pdf file :)
+2. Look at "Ekaterina Kotliarova.pdf" file :)
 
 Mathematics and programming (computer) science were always a kind of challenge for me. They were not only exciting and complicated subjects to learn, but also a field that is used to be seen as non-female activity. When I entered Department of Applied Mathematics and Mechanics in [Voronezh State University (VSU)](https://www.vsu.ru/english/) there were only 3 girls in a group of 20 students. And this situation can be easily extrapolated to any other field of technical or natural sciences (all over Russia at least). So I have always had some extra motivation to succeed in it.
 I have been interested in computer vision since I joined VSU. Unfortunately, there were no such courses there, but still I got a good base in applied mathematics and computer science. For example, the main focus in our department was on algorithms, data structures and studying different programming languages. As I already mentioned, I could hardly find a good specialist in computer vision at VSU, but I was enthusiastic enough to start a bachelor diploma project on this topic. It was dedicated to recognising images of automobile number plates.
